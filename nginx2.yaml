@@ -49,7 +49,7 @@ spec:
           name: nginx2-index
 ---
 apiVersion: v1
-kind: Service
+kind: Service122
 metadata:
   name: nginx-2-svc
 spec:
